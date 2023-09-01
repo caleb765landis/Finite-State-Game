@@ -11,3 +11,4 @@ The game can be played by hosting the index.html page on a local server. The htm
 _Intro to AI Training_ is a choose-your-own-adventure game that is played through interactive links found in passages. Clicking on a link will progress the story and state of the game by moving to a new passage and updating static variables. Gameplay is similar to Pokemon where you get to choose a partner creature and train them through battle. In this game, you can battle your rival who is easy, but gives you less experience, or you can battle the student at the top of the class who is more difficult, but gives you more experience. Once you feel you are strong enough, you can take your final test to show your professor your battling skills.
 
 ![Gameplay](./gameplay.png)
+![Gameplay 2](./gameplay2.png)
