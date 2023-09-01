@@ -1,4 +1,4 @@
-# Finite-State-Game
+# Finite State Game
 
 This project contains a finite state game called _Intro to AI Training_. This project was an exercise for designing and managing game state for my _Introduction to 3D Game Graphics_ class at IUPUI. The game was created with _[Twine](https://twinery.org/)_, a tool for creating interactive, nonlinear stories. Game state is managed through a graph-like system where each node is a passage in the story. Each passage has static variables for storing game state that changes based on player choices and moving to other nodes. The graph for how the story is structured can be seen in the image below:
 
